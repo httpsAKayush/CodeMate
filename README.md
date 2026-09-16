@@ -2,6 +2,7 @@
 
 codeMate is a real-time, highly collaborative coding platform designed to simulate technical interviews, pair-programming sessions, and competitive programming. Built with a robust modern tech stack, it allows developers to write code together, communicate via WebRTC, and receive AI-driven insights seamlessly.
 
+
 ## ✨ Features
 
 - **Real-Time Collaborative Editor:** Conflict-free typing sync powered by `Yjs` and `y-monaco` running over Socket.io.
